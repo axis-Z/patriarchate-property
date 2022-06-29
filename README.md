@@ -1,1 +1,1 @@
-# patriarchate-property
+# Patriarchate property | საპატრიარქოს ქონება
