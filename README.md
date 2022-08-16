@@ -12,7 +12,7 @@ To get familiar with the data and visualisations, you can see the following fold
 3. Sankey diagrams - R script: The code of Sankey Network type visualisations in R;
 4. Icons: Pictograms used in the interactive map.
 
-Special thanks to @grabrBrabr for the support and sharing knowledge while creating the interactive map, particularly in css & js parts.
+Special thanks to [@grabrBrabr](@grabrBrabr) for the support and sharing knowledge while creating the interactive map, particularly in css & js parts.
 
 
 
