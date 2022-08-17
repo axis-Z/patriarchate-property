@@ -2,7 +2,7 @@
 
 English version
 
-The project called 'Patriarchate's Georgia represents the analysis of patriarchate property, particularly immovable property. The project aims to inform public society about the extent of patriarchate property and the sources of property transfers. Additionally, it is an attempt to increase the interests of society in socio-economical issues.
+The project called 'Patriarchate's Georgia' represents the analysis of patriarchate property, particularly immovable property. The project aims to inform public society about the extent of patriarchate property and the sources of property transfers. Additionally, it is an attempt to increase the interests of society in socio-economical issues.
 
 The row data used for the analysis and visualisations belongs to [Indigo](https://toc.ge/map/ka). Statistical and spatial analysis tools were used for the row data analysis. 
 
